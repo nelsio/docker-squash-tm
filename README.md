@@ -1,5 +1,6 @@
 [![](https://images.microbadger.com/badges/image/nelsio/squash-tm.svg)](https://microbadger.com/images/nelsio/squash-tm "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/nelsio/squash-tm.svg)](https://microbadger.com/images/nelsio/squash-tm "Get your own version badge on microbadger.com")
+[![Build Status](https://travis-ci.org/nelsio/docker-squash-tm.svg?branch=master)](https://travis-ci.org/nelsio/docker-squash-tm)
 
 # docker-squash-tm
 Dockerized Squash-TM 1.20.0 \
