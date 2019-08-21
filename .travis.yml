@@ -6,7 +6,7 @@ before_script:
  - docker-compose up -d
 
 script:
- - sleep 20
+ - sleep 180
  - ls -lah
  - docker-compose ps
  # Test connection to squash-tm locally
