@@ -1,0 +1,18 @@
+
+services:
+  - docker
+
+before_script:
+ - docker-compose up -d
+
+script:
+ - sleep 20
+ - ls -lah
+ - docker-compose ps
+ # Test connection to squash-tm locally
+ - docker-compose exec squash-tm curl -I -L http://localhost:8080/squash/
+ - curl -I -L http://localhost:8099/squash/
+
+notifications:
+  email:
+   - nlsnlbo@gmail.com
