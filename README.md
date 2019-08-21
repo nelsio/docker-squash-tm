@@ -1,5 +1,5 @@
-[![](https://images.microbadger.com/badges/image/canecas/squash-tm.svg)](https://microbadger.com/images/itmug/squash-tm "Get your own image badge on microbadger.com")
-[![](https://images.microbadger.com/badges/version/canecas/squash-tm.svg)](https://microbadger.com/images/itmug/squash-tm "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/nelsio/squash-tm.svg)](https://microbadger.com/images/itmug/squash-tm "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/nelsio/squash-tm.svg)](https://microbadger.com/images/itmug/squash-tm "Get your own version badge on microbadger.com")
 
 # docker-squash-tm
 Dockerized Squash-TM 1.20.0 \
